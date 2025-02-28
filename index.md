@@ -5,7 +5,9 @@
 # <h2> header two
 
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
